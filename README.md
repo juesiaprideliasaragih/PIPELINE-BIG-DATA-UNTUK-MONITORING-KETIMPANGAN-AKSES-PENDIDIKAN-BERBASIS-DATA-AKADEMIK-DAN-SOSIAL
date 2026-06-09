@@ -26,7 +26,6 @@ Ketimpangan kualitas pendidikan antarwilayah di Indonesia masih menjadi tantanga
 3. [Arsitektur Pipeline (Medallion)](#3-arsitektur-pipeline-medallion)
 4. [Cara Menjalankan Kontainer](#4-cara-menjalankan-kontainer)
 5. [Mengakses Layanan Web UI](#5-mengakses-layanan-web-ui)
-6. [Anggota Kelompok 15](#6-anggota-kelompok-15)
 
 ---
 
