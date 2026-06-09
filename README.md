@@ -92,11 +92,3 @@ Setelah semua mesin berjalan hijau (*Running*), Anda bisa membuka *browser* dan 
 | **Apache Spark** (Master UI) | `http://localhost:8080` | - | - |
 
 ---
-
-## 6. Tugas Anggota Kelompok
-
-Proyek ini dibangun secara kolaboratif oleh:
-- **Lutfia** – *Infrastructure Engineer* (Setup Docker & Konfigurasi Lingkungan)
-- **Refa** – *Data Engineer* (Tahap Ingestion Bronze & Cleansing Silver)
-- **Feby** – *Data Engineer* (Tahap Agregasi Gold & Dokumentasi)
-- **Jue** – *Analytics & Orchestration Engineer* (Airflow DAG & Metadata Superset)
