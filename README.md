@@ -1,7 +1,18 @@
-# Panduan Setup Proyek Akhir — Analisis Big Data
+# PIPELINE BIG DATA UNTUK MONITORING KETIMPANGAN AKSES PENDIDIKAN BERBASIS DATA AKADEMIK DAN SOSIAL
+
+---
+
+## Panduan Setup Proyek Akhir — Analisis Big Data
 > Apache Spark + Apache Airflow + MinIO + PostgreSQL + Apache Superset · Medallion Architecture · Docker
 
 **KELOMPOK 15**
+## 6. Anggota Kelompok 15
+
+Proyek ini dibangun secara kolaboratif oleh 4 anggota Kelompok 15:
+- Juesi Apridelia Saragih (123450085)
+- Refa Destiny Pranata (123450016)
+- Feby Wulandari (123450042)
+- Lutfia Aisyah Putri (123450074)
 
 ---
 
@@ -103,10 +114,4 @@ Setelah semua mesin berjalan hijau (*Running*), Anda bisa membuka *browser* dan 
 
 ---
 
-## 6. Anggota Kelompok 15
 
-Proyek ini dibangun secara kolaboratif oleh 4 anggota Kelompok 15:
-- **Lutfia** – *Infrastructure Engineer* (Setup Docker & Konfigurasi Lingkungan)
-- **Refa** – *Data Engineer* (Tahap Ingestion Bronze & Cleansing Silver)
-- **Feby** – *Data Engineer* (Tahap Agregasi Gold & Dokumentasi)
-- **Jue** – *Analytics & Orchestration Engineer* (Airflow DAG & Metadata Superset)
