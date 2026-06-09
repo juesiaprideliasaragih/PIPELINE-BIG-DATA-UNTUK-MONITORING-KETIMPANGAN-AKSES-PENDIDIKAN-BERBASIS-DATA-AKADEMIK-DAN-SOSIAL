@@ -6,7 +6,6 @@
 > Apache Spark + Apache Airflow + MinIO + PostgreSQL + Apache Superset · Medallion Architecture · Docker
 
 **KELOMPOK 15**
-## 6. Anggota Kelompok 15
 
 Proyek ini dibangun secara kolaboratif oleh 4 anggota Kelompok 15:
 - Juesi Apridelia Saragih (123450085)
@@ -18,11 +17,7 @@ Proyek ini dibangun secara kolaboratif oleh 4 anggota Kelompok 15:
 
 ## Gambaran Umum (Abstrak)
 
-Proyek ini merupakan implementasi *end-to-end Big Data Analytics* untuk memantau dan menganalisis tingkat ketimpangan kualitas pendidikan di Indonesia berdasarkan data Rapor Pendidikan Kemdikbud. 
-
-Dengan menerapkan standar industri **Medallion Architecture** (Bronze, Silver, Gold), jutaan baris data mentah diekstraksi dan dibersihkan secara terdistribusi menggunakan mesin **Apache Spark**. Alur pemrosesan data ini diotomatisasi dan dijadwalkan oleh **Apache Airflow**, kemudian hasil perhitungan agregasi akhirnya disimpan ke dalam *Data Warehouse* **PostgreSQL**. Pada tahap akhir (*Presentation Layer*), data divisualisasikan menjadi *Dashboard Business Intelligence* yang interaktif bergaya *Soft UI* menggunakan **Apache Superset**. 
-
-Keseluruhan infrastruktur dan ekosistem pemrosesan data ini berjalan secara terisolasi di dalam **Docker Containers**, memastikan sistem dapat dijalankan dengan aman dan konsisten di berbagai perangkat.
+Ketimpangan kualitas pendidikan antarwilayah di Indonesia masih menjadi tantangan dalam pencapaian SDGs 4 (Pendidikan Berkualitas). Penelitian ini membangun pipeline Big Data berbasis Medallion Architecture menggunakan Apache Spark, Airflow, MinIO, PostgreSQL, dan Apache Superset untuk monitoring ketimpangan pendidikan menggunakan Data Rapor Pendidikan Tahun 2025. Pipeline memproses data melalui tiga lapisan: Bronze (data mentah), Silver (pembersihan dan standarisasi), dan Gold (data analitik siap pakai). Evaluasi terhadap metode sekuensial konvensional menunjukkan pipeline mencapai validitas data 98,2%, throughput 52.400 baris/detik, latensi 12 menit, dan rasio error terisolasi 9,1%, melampaui baseline pada seluruh metrik. Sistem berhasil mengidentifikasi provinsi dengan konsentrasi tertinggi indikator berlabel merah sebagai deteksi dini ketimpangan pendidikan.
 
 ---
 
