@@ -1,6 +1,3 @@
-<img width="1918" height="792" alt="image" src="https://github.com/user-attachments/assets/f1cdd5c1-8ba0-423d-bd63-12303a0568ee" /># PIPELINE-BIG-DATA-UNTUK-MONITORING-KETIMPANGAN-AKSES-PENDIDIKAN-BERBASIS-DATA-AKADEMIK-DAN-SOSIAL
-Tugas Besar Analisis Big Data (Kelompok 15 -RB) 
-
 # Dashboard Pemantauan Ketimpangan Pendidikan Indonesia 2025
 
 ## Deskripsi
