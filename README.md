@@ -1,11 +1,7 @@
 # PIPELINE BIG DATA UNTUK MONITORING KETIMPANGAN AKSES PENDIDIKAN BERBASIS DATA AKADEMIK DAN SOSIAL
 
 ---
-
-## Panduan Setup Proyek Akhir — Analisis Big Data
-> Apache Spark + Apache Airflow + MinIO + PostgreSQL + Apache Superset · Medallion Architecture · Docker
-
-**KELOMPOK 15**
+**KELOMPOK 15 (RB)**
 
 Proyek ini dibangun secara kolaboratif oleh 4 anggota Kelompok 15:
 - Juesi Apridelia Saragih (123450085)
@@ -14,6 +10,8 @@ Proyek ini dibangun secara kolaboratif oleh 4 anggota Kelompok 15:
 - Lutfia Aisyah Putri (123450074)
 
 ---
+## Panduan Setup Proyek Akhir — Analisis Big Data
+> Apache Spark + Apache Airflow + MinIO + PostgreSQL + Apache Superset · Medallion Architecture · Docker
 
 ## Gambaran Umum (Abstrak)
 
